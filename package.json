@@ -8,10 +8,10 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "dependencies": {
+  "dependencies": { 
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.5"
+    "next": "14.2.3"
   },
   "devDependencies": {
     "postcss": "^8",
